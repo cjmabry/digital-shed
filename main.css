@@ -29,3 +29,7 @@ small {
 li {
     font-size: 1.5rem;
 }
+
+#links-list a {
+    word-wrap: anywhere;
+}
